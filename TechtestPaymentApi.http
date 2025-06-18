@@ -1,0 +1,6 @@
+@TechtestPaymentApi_HostAddress = http://localhost:5198
+
+GET {{TechtestPaymentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
