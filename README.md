@@ -28,3 +28,5 @@ Tudo isso rodando localmente e com persistência **em memória** — só abrir o
 ---
 
 ![Static Badge](https://img.shields.io/badge/Status--black?label=Em%20Desenvolvimento&color=green)
+
+***PROJETO FAZ PARTE DE UMA PROPOSTA DE DESAFIO DA DIO! REPOSITÓRIO OFICIAL >> https://github.com/digitalinnovationone/trilha-net-poo-desafio <<
